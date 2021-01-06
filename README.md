@@ -38,7 +38,7 @@ ABC
 
 ## Summary
 
-ABC
+The analysis for the Citi Bike sharing program from the month of August in 2019 shows the bike sharing program is very active in New York City. Looking at the stories and dashboards linked to above, evidence suggests a consistent level of use especially around sites strongly linked with high population areas/tourist locations. The data also demonstrates a high level of use for particular bikes shown by the average tripduration visualization. 
 
 ## References
 
