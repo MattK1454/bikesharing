@@ -16,10 +16,13 @@ This analysis used bike sharing data from the Citi Bike sharing program in New Y
 - Story for the NYC Citi Bike Challenge analysis.
 
 ![Average tripduration](https://github.com/MattK1454/bikesharing/blob/main/images/Average%20tripduration.png)
-ABC
+
+This visualization looks at the average trip duration vs birth year. If the trend of the data is prioritized then there is an observation of increased trip duration as the age of the user moves towards younger users. This suggests people born more recently will utilize the bike for longer periods. The time measure for trip duration is in seconds. The birth year begins at 1880 which can not be accurate, if we assume the data was recorded with errors but the overall trend is accurate even with the errors, then the analysis of younger users use the bikes for longer holds for a point of interest in the project analysis.
 
 ![Bike Utilization](https://github.com/MattK1454/bikesharing/blob/main/images/Bike%20Utilization.png)
-ABC
+
+This visualization, at first glance, is difficult to understand. What is displayed here are details pertaining to the amount of use each bike received in the month of August in 2019. Each dot represents a bicycle in the Citi Bike sharing program. The size of the dot is in relation to the amount of use in seconds the bike experienced during the month of August. The larger the dot, the more the bike was used. This data suggests tracking the bikes most often used may allow for a deeper understanding of some of the factors encouraging use of the bike sharing program.
+
 
 ![Checkout time for Users](https://github.com/MattK1454/bikesharing/blob/main/images/Checkout%20Time%20for%20Users.png)
 ABC
