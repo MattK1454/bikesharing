@@ -6,7 +6,7 @@ This analysis used bike sharing data from the Citi Bike sharing program in New Y
 
 ## Results
 
-![NYC Citi Bike Project Dashboard](https://public.tableau.com/profile/matthew.kaufmann#!/vizhome/NYCCitiBikeProjectDashboard/NYCCitiBike)
+[NYC Citi Bike Project Dashboard](https://public.tableau.com/profile/matthew.kaufmann#!/vizhome/NYCCitiBikeProjectDashboard/NYCCitiBike)
 Dashboard visualization for the Citi Bike Project.
 
 ![NYC Citi Bike Project Story](https://public.tableau.com/profile/matthew.kaufmann#!/vizhome/NYCCitiBikeProject_16098901306970/NYCCitiBikeStory)
