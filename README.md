@@ -38,7 +38,11 @@ ABC
 
 ## Summary
 
-The analysis for the Citi Bike sharing program from the month of August in 2019 shows the bike sharing program is very active in New York City. Looking at the stories and dashboards linked to above, evidence suggests a consistent level of use especially around sites strongly linked with high population areas/tourist locations. The data also demonstrates a high level of use for particular bikes shown by the average tripduration visualization. 
+The analysis for the Citi Bike sharing program from the month of August in 2019 shows the bike sharing program is very active in New York City. Looking at the stories and dashboards linked to above, evidence suggests a consistent level of use especially around sites strongly linked with high population areas/tourist locations. The data also demonstrates a high level of use for particular bikes shown by the average tripduration visualization. Data also suggests there is an upward trend for bike sharing as age decreases. Data also suggests men make the most use of the bike sharing program particularly from the 5am to the 8am hours. There is also evidence suggesting the most bike trips take place on weekdays from 8am to 9am, 5pm to 7pm, and Saturdays from 10am to 6pm. With the average trip duration trending upward for younger generation, it is reasonable to state any program implimented would need to be done in a location with a younger male population and within tourist locations.
+
+Two possible visualizations that could be added to this analysis are:
+* Customer type by gender
+* Customer type by age and average trip duration
 
 ## References
 
