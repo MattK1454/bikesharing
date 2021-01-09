@@ -31,11 +31,11 @@ This analysis uses bike data from the New York City Citi bike share program coll
 
 
 
-![Trips by gender (Weekday per hour)](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+![Trips by gender (Weekday per hour)](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
 
 
 
-![Trips by weekday per hour](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
+![Trips by weekday per hour]((https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
 
 
