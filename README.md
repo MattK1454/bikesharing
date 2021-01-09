@@ -17,7 +17,7 @@ This analysis uses bike data from the New York City Citi bike share program coll
 
 ![Peak hours of use for August](https://github.com/MattK1454/bikesharing/blob/main/images/August%20Peak%20Hours.png)
 
-This visualization shows bike trips per hour in the month of August. The visualization shows the hours of 1am to 5am had the least amount of total bike trips in month of August 2019. The hours of 5pm and 6pm had the highest number of total trips.
+This visualization shows bike trips per hour in the month of August. The graph here reflects two periods of peak usage of the bikes during the day. The first peak of use starts at 6am and ends around 10am. The second peak occurs between 4pm and 8pm. The visualization would help use to estimate during which hours it would be best to schedule repairs for the bikes.
 
 ![Gender Breakdown](https://github.com/MattK1454/bikesharing/blob/main/images/Gender%20Breakdown.png)
 
