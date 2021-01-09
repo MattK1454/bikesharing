@@ -31,17 +31,19 @@ In order to properly manage resources and schedule repairs for the bikes when th
 
 This visualization breaks down the previous visualization to show how bike trips by hour are broken down by gender. Data here supports the second visualization showing males made use of the bike sharing system the most in the month of August.
 
-![Trips by gender (Weekday per hour)](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
+![Trips by Weekday per hour](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
 
+This visualization maps number of bike returns for each hour by weekday. This visualization shows the highest level of returns for bikes on weekdays is between 7am and 10am on weekdays and between 5pm to 8pm on the evenings of Monday, Tuesday, Thursday, and Friday. The weekends show a roughly consistent level of bike returns throughout the midday period on Saturdays and Sundays.
 
+Note: Wednesdays appear to have a lower number of bike returns during the evening hours of 5pm to 8pm as compared to the other weekdays.
 
-![Trips by weekday per hour](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
+![Trips by gender (weekday per hour)](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
-
+This visualization is a breakdown of the previous visualization by gender. The data supports males generated the highest returns of bikes.
 
 ![User trips by gender by weekday](https://github.com/MattK1454/bikesharing/blob/main/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
-
+This visualization looks at how many bikes are checked out by user type with respect to gender by weekday
 
 ## Summary
 
