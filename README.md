@@ -39,7 +39,7 @@ Note: Wednesdays appear to have a lower number of bike trips during the evening 
 
 ![Trips by gender (weekday per hour)](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
-This visualization is a breakdown of the previous visualization by gender. The data supports males generated the highest returns of bikes.
+This visualization is a breakdown of the previous visualization by gender. The data supports males generated the highest bike trips.
 
 ![User trips by gender by weekday](https://github.com/MattK1454/bikesharing/blob/main/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
