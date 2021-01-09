@@ -17,11 +17,11 @@ This analysis uses bike data from the New York City Citi bike share program coll
 
 ![Peak hours of use for August](https://github.com/MattK1454/bikesharing/blob/main/images/August%20Peak%20Hours.png)
 
-This visualization shows bike trips per 
+This visualization shows bike trips per hour in the month of August. The visualization shows the hours of 1am to 4am had the least amount of total bike trips in month of August 2019. The hours of 5am and 6am had the highest number of total trips.
 
 ![Gender Breakdown](https://github.com/MattK1454/bikesharing/blob/main/images/Gender%20Breakdown.png)
 
-
+The idea behind generating this visualization is to attempt to understand the breakdown of customer by gender (male, female, unkown). The data shows males generated the greatest number of trips.
 
 ![Checkout time for Users](https://github.com/MattK1454/bikesharing/blob/main/images/Checkout%20Time%20for%20Users.png)
 
