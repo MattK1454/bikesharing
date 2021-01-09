@@ -48,7 +48,7 @@ This analysis uses bike data from the New York City Citi bike share program coll
 
 
 Two possible visualizations that could be added to this analysis are:
-* Customer type by gender
+* Bike use by id by station
 * Customer type by age and average trip duration
 
 ## References
