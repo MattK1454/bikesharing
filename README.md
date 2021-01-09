@@ -17,7 +17,7 @@ This analysis uses bike data from the New York City Citi bike share program coll
 
 ![Peak hours of use for August](https://github.com/MattK1454/bikesharing/blob/main/images/August%20Peak%20Hours.png)
 
-
+This visualization shows bike trips per 
 
 ![Gender Breakdown](https://github.com/MattK1454/bikesharing/blob/main/images/Gender%20Breakdown.png)
 
