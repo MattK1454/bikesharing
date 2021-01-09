@@ -33,7 +33,7 @@ This visualization breaks down the previous visualization to show how bike trips
 
 ![Trips by Weekday per hour](https://github.com/MattK1454/bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
 
-This visualization maps number of bike trips for each hour by weekday. This visualization shows the highest level of trips for bikes on weekdays is between 7am and 10am on weekdays and between 5pm to 8pm on the evenings of Monday, Tuesday, Thursday, and Friday. The weekends show a roughly consistent level of bike uses throughout the midday period on Saturdays and Sundays.
+This visualization maps number of bike trips for each hour by weekday. This visualization shows the highest level of trips for bikes on weekdays is between 7am and 10am on weekdays and between 5 pm to 8 pm on the evenings of Monday, Tuesday, Thursday, and Friday. The weekends show a roughly consistent level of bike uses throughout the midday period on Saturdays and Sundays.
 
 Note: Wednesdays appear to have a lower number of bike returns during the evening hours of 5pm to 8pm as compared to the other weekdays.
 
