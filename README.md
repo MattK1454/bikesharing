@@ -25,7 +25,7 @@ The idea behind generating this visualization is to attempt to understand the br
 
 ![Checkout time for Users](https://github.com/MattK1454/bikesharing/blob/main/images/Checkout%20Time%20for%20Users.png)
 
-In order to properly manage resources and schedule repairs for the bikes when the bikes are most capable of being repaired, it is necessary to look for when the greatest number of bikes are being used (aka checked out). This visualization demonstrates the highest number of bikes being checked out peaks from 5am to to 6am. The number of bikes checked out begins tapering off starting at 6am to it's lowest point at 12am.
+In order to properly manage resources and schedule repairs for the bikes when the bikes are most capable of being repaired, it is necessary to look for when the greatest number of bikes are being used (aka checked out). This visualization demonstrates the highest number of bikes being checked out peaks from 5pm to to 6pm. The number of bikes checked out begins tapering off starting at 6am to it's lowest point at 12am.
 
 ![Checkout times by gender](https://github.com/MattK1454/bikesharing/blob/main/images/Checkout%20Times%20by%20Gender.png)
 
