@@ -43,7 +43,7 @@ This visualization is a breakdown of the previous visualization by gender. The d
 
 ![User trips by gender by weekday](https://github.com/MattK1454/bikesharing/blob/main/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
-This visualization looks at how many bikes are checked out by user type with respect to gender by weekday
+This visualization looks at how many bikes are checked out by user type with respect to gender by weekday. This data shows subscriber user types generated the most bike trips versus the customer types. To clarify, customer user types are users of the system who are infrequent users of the system - they will only checkout bikes when they need to use them. Subscriber user types are those who will pay a subscription fee to the system to use the bikes - they use bikes consistently and on a regular basis.
 
 ## Summary
 
